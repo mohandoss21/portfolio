@@ -1,0 +1,45 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "../../img/front.png",
+      "title": "Front-End",
+      "description": "I was familiar with HTML,CSS,JAVASCRIPT and REACT framework"
+    },
+    {
+      "id": "2",
+      "src": "../../img/backend.png",
+      "title": "Back-End",
+      "description": "I was Expertise in Django and PHP"
+    },
+    {
+      "id": "3",
+      "src": "../../img/db.png",
+      "title": "Database",
+      "description": "I was Expertise in SQL and PLSQL and good at Mysql and Oracle database"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "../../img/front.png",
+      "title": "Front-End",
+      "description": "I was familiar with HTML,CSS,JAVASCRIPT and REACT framework",
+      "link":"Done"
+    },
+    {
+      "id": "2",
+      "src": "../../img/backend.png",
+      "title": "Back-End",
+      "description": "I was Expertise in Django and PHP",
+      "link":"Done"
+    },
+    {
+      "id": "3",
+      "src": "../../img/db.png",
+      "title": "Database",
+      "description": "I was Expertise in SQL and PLSQL and good at Mysql and Oracle database",
+      "link":"Done"
+    }
+  ]
+}

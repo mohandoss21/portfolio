@@ -1,5 +1,7 @@
 /* Global CSS */
-
+html{
+  scroll-behavior: smooth;
+}
 body{
 
   margin: 0;
@@ -291,14 +293,21 @@ h3{
   color: var(--darkblue);
 }
 .skills--section--img{
+  width: 300px;
+  height: 350px;
   display: flex;
   padding: 13.3px;
+  padding-bottom: 40px;
   justify-content: center;
   align-items: center;
   gap: 13.3px;
   border-radius: 10.6px;
   background: #ffffff;
   box-shadow: 0 0 16px 0 rgba(0,0,0,0.1);
+}
+.skills--section--card > .skills--section--img > img{
+  height: 250px;
+  width: 250px;
 }
 .skills--section--card--content{
   display: flex;

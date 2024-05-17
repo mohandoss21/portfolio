@@ -4,41 +4,41 @@
       "id": "1",
       "src": "../../img/front.png",
       "title": "Front-End",
-      "description": "I was familiar with HTML,CSS,JAVASCRIPT and REACT framework"
+      "description": "Familiar with HTML,CSS,JAVASCRIPT and REACT framework"
     },
     {
       "id": "2",
-      "src": "../../img/backend.png",
+      "src": "../../img/backnd.png",
       "title": "Back-End",
-      "description": "I was Expertise in Django and PHP"
+      "description": "Expertised in Django and PHP"
     },
     {
       "id": "3",
-      "src": "../../img/db.png",
+      "src": "../../img/Database.png",
       "title": "Database",
-      "description": "I was Expertise in SQL and PLSQL and good at Mysql and Oracle database"
+      "description": "Expertised in SQL and PLSQL and good at Mysql and Oracle database"
     }
   ],
   "portfolio": [
     {
       "id": "1",
-      "src": "../../img/front.png",
-      "title": "Front-End",
-      "description": "I was familiar with HTML,CSS,JAVASCRIPT and REACT framework",
-      "link":"Done"
+      "src": "../../img/image.png",
+      "title": "Internal Mark Calculator",
+      "description": "A comprehensive website for students to calculate their internal mark for the respective subjects.",
+      "link":"https://internalmarkcalculator.netlify.app/"
     },
     {
       "id": "2",
-      "src": "../../img/backend.png",
-      "title": "Back-End",
-      "description": "I was Expertise in Django and PHP",
-      "link":"Done"
+      "src": "../../img/Cropconnect.png",
+      "title": "Crop Connect",
+      "description": "Developed a E-commerce website that helps the formers and consumers to be connected directly.",
+      "link":"https://github.com/mohandoss21/Cropconnect"
     },
     {
       "id": "3",
-      "src": "../../img/db.png",
-      "title": "Database",
-      "description": "I was Expertise in SQL and PLSQL and good at Mysql and Oracle database",
+      "src": "../../img/portfolio.png",
+      "title": "Portfolio",
+      "description": "A portfolio website",
       "link":"Done"
     }
   ]

@@ -11,8 +11,8 @@ function AboutMe() {
         <div className='hero--section--content'>
           <p className='section-title'>About</p>
           <h1 className='skills--section--heading'>About Me</h1>
-          <p className='hero--section--description'> Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, nemo? Culpa deserunt labore accusamus ea, in et repellat ab veritatis hic nam! Laboriosam neque ut placeat delectus dolore ab veritatis?</p>
-          <p className='hero--section--description'> Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, nemo? Culpa deserunt labore accusamus ea, in et repellat ab veritatis hic nam! Laboriosam neque ut placeat delectus dolore ab veritatis?</p>
+          <p className='hero--section--description'> Third-year Computer Science student at TCE, specializing in Front End Web Development and Python. Experienced in impactful projects and internships contributing to cross-functional teams. </p>
+          <p className='hero--section--description'> Proficient in Java, Python, C,web development, and database management. Eager to embrace new challenges and technologies for continuous learning and growth in computer science.</p>
         </div>
       </div>
     </section>

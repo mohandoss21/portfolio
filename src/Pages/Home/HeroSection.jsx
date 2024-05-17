@@ -12,9 +12,9 @@ function HeroSection() {
             Developer
           </h1>
           <p className='hero--section--description'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Pre-final Year CSE Student
             <br/>
-            Illo deleniti in id quae voluptates.
+            At Thiagarajar College of Engineering
           </p>
         </div>
         <button className='btn btn-primary'>Get in Touch</button>

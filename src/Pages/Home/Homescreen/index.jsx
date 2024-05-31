@@ -2,7 +2,7 @@ import HeroSection from "../HeroSection";
 import React from 'react'
 import Navbar from "../Navbar";
 import MyPortFolio from "../MyPortfolio"
-import MySkills from "../MySkills";
+import Skills from "../Skills";
 import AboutMe from "../AboutMe";
 import ContactMe from "../ContactMe";
 import Footer from "../Footer";

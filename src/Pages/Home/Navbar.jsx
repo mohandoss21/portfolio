@@ -91,7 +91,7 @@ function Navbar() {
               smooth={true}
               offset={-70}
               duration={100}
-              to="MySkills"
+              to="Skills"
               className="navbar--content"
             >
               Skills

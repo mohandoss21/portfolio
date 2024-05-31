@@ -111,20 +111,7 @@ function Navbar() {
               About Me
             </ScrollLink>
           </li>
-          <li>
-            <ScrollLink
-              onClick={closeMenu}
-              activeClass="navbar--active--content"
-              spy={true}
-              smooth={true}
-              offset={-70}
-              duration={100}
-              to="Projects"
-              className="navbar--content"
-            >
-              Projects
-            </ScrollLink>
-          </li>
+         
         </ul>
       </div>
       <ScrollLink

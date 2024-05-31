@@ -12,7 +12,7 @@ function Home() {
       <div>
         <Navbar/>
         <HeroSection/>
-        <MySkills/>
+        <Skills/>
         <AboutMe/>
         <MyPortFolio/>
         <ContactMe/>

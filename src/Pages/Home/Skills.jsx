@@ -1,10 +1,10 @@
 import React from 'react'
 import data from "../../data/index.json"
-function MySkills() {
+function Skills() {
   return (
     <section className='skills--section' id="mySKills">
       <div className='portfolio--container'>
-        <p className='section-title'>My Skills</p>
+        <p className='section-title'>Skills</p>
          <h1 className='skills--section--heading'>My Expertise</h1>
       </div>
       <div className='skills--section--container'>
@@ -25,4 +25,4 @@ function MySkills() {
   )
   }
 
-export default MySkills
+export default Skills

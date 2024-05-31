@@ -1,5 +1,4 @@
 import React from 'react'
-
 function HeroSection() {
   return (
     <section id="heroSection" className="hero--section">
@@ -7,7 +6,7 @@ function HeroSection() {
         <div className='hero--section--content'>
           <p className='section--title'>Hey, I'm Mohandoss</p>
           <h1 className='hero--section--title'>
-            Frond End
+            Full Stack
             <br/>
             Developer
           </h1>
@@ -17,7 +16,7 @@ function HeroSection() {
             At Thiagarajar College of Engineering
           </p>
         </div>
-        <button className='btn btn-primary'>Get in Touch</button>
+        <button className='btn btn-primary'><a style={{textDecoration:"none",color:"black"}} href='www.linkedin.com/in/mohandoss-velmurugan'>Get in Touch</a></button>
       </div>
       <div className='hero--section--img'>
         <img src="./img/hero_img.png" alt='Hero Section'/>

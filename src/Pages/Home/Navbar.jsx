@@ -91,7 +91,7 @@ function Navbar() {
               smooth={true}
               offset={-70}
               duration={100}
-              to="Skills"
+              to="MySkills"
               className="navbar--content"
             >
               Skills
@@ -123,6 +123,20 @@ function Navbar() {
               className="navbar--content"
             >
               Portfolio
+            </ScrollLink>
+          </li>
+          <li>
+            <ScrollLink
+              onClick={closeMenu}
+              activeClass="navbar--active--content"
+              spy={true}
+              smooth={true}
+              offset={-70}
+              duration={100}
+              to="Curriculam"
+              className="navbar--content"
+            >
+              Curriculam
             </ScrollLink>
           </li>
         </ul>

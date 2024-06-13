@@ -578,3 +578,25 @@ h3{
     transform: rotate(-45deg) translate(0.45rem, -0.1875rem);
   }
 }
+ScrollLink{
+  cursor: pointer;
+}
+/*CUrriculam*/
+.curriculam{
+  display: flex;
+  padding: 110.33px 40.33px ;
+  margin-bottom: 20px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 20.667px;
+  background-color: var(--bg-shade);
+}
+/* Co Curricular */
+.co-curricular{
+  min-height: 300px;
+}
+.extra-curricluar{
+ min-height: 300px;
+}
+/*Extra Curricular*/

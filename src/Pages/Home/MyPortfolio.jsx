@@ -22,7 +22,7 @@ function MyPortfolio() {
       <h3 className='portfolio--section--title'>{item.title}</h3>
       <p className='text-md'>{item.description}</p>
     </div>
-      <p className='text-sm portfolio--link'><a href="https://internalmarkcalculator.netlify.app/" style={{textDecoration:"none"}}>Link</a> </p>
+      <p className='text-sm portfolio--link'><a href={item.link} style={{textDecoration:"none"}}>Link</a> </p>
   </div>
 ))}
   </div>

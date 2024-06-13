@@ -1,6 +1,6 @@
 import React from 'react'
 import data from "../../data/index.json"
-function Skills() {
+function MySkills() {
   return (
     <section className='skills--section' id="mySKills">
       <div className='portfolio--container'>
@@ -25,4 +25,4 @@ function Skills() {
   )
   }
 
-export default Skills
+export default MySkills

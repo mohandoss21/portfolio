@@ -38,7 +38,14 @@
       "id": "3",
       "src": "../../img/portfolio.png",
       "title": "Portfolio",
-      "description": "A portfolio website",
+      "description": " Created and maintained a professional portfolio website showcasing my projects, skills, and experiences in Development.    ",
+      "link":"http://mohandoss.netlify.app/"
+    },
+    {
+      "id": "4",
+      "src": "../../img/Edubuddy.png",
+      "title": "Edubuddy",
+      "description": "Develop a platform where users can create topic-specific study rooms, enabling multiple users to interact and engage in discussions.",
       "link":"Done"
     }
   ]
